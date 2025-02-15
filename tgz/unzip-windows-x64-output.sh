@@ -1,0 +1,33 @@
+tar xzvf windows-x64-apicula.tgz -C ../
+tar xzvf windows-x64-avy.tgz -C ../
+tar xzvf windows-x64-bitwuzla.tgz -C ../
+tar xzvf windows-x64-boolector.tgz -C ../
+tar xzvf windows-x64-cvc4.tgz -C ../
+tar xzvf windows-x64-cvc5.tgz -C ../
+tar xzvf windows-x64-eqy.tgz -C ../
+tar xzvf windows-x64-formal.tgz -C ../
+tar xzvf windows-x64-gtkwave.tgz -C ../
+tar xzvf windows-x64-icestorm.tgz -C ../
+tar xzvf windows-x64-imctk.tgz -C ../
+tar xzvf windows-x64-iverilog.tgz -C ../
+tar xzvf windows-x64-nextpnr-ecp5.tgz -C ../
+tar xzvf windows-x64-nextpnr-generic.tgz -C ../
+tar xzvf windows-x64-nextpnr-himbaechel.tgz -C ../
+tar xzvf windows-x64-nextpnr-ice40.tgz -C ../
+tar xzvf windows-x64-nextpnr-machxo2.tgz -C ../
+tar xzvf windows-x64-nextpnr-nexus.tgz -C ../
+tar xzvf windows-x64-openfpgaloader.tgz -C ../
+tar xzvf windows-x64-pono.tgz -C ../
+tar xzvf windows-x64-prjoxide.tgz -C ../
+tar xzvf windows-x64-prjtrellis.tgz -C ../
+tar xzvf windows-x64-pyhdl.tgz -C ../
+tar xzvf windows-x64-python3.tgz -C ../
+tar xzvf windows-x64-system-resources.tgz -C ../
+tar xzvf windows-x64-utils.tgz -C ../
+tar xzvf windows-x64-verilator.tgz -C ../
+tar xzvf windows-x64-yices.tgz -C ../
+tar xzvf windows-x64-yosys.tgz -C ../
+tar xzvf windows-x64-yosys-slang-plugin.tgz -C ../
+tar xzvf windows-x64-z3.tgz -C ../
+
+
